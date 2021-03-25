@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from linepy import *
 
-line = LINE('EMAIL', 'PASSWORD')
+line = LINE('slynq2@gmail.com', '36091vwz')
 #line = LINE('AUTHTOKEN')
 
 line.log("Auth Token : " + str(line.authToken))
